@@ -42,3 +42,13 @@ Linked articles and guides were checked on 19 October 2026 where accessible. Cou
 | Choose a manageable project and keep evidence of learning | [Learning paths](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/LEARNING-PATHS.md) · [Complete worked examples](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/WORKED-EXAMPLES.md) |
 
 School fees, calendar dates and optional home learning are separate decisions. Check each resource’s free scope and the child’s readiness before starting.
+
+## Free maths resources by age and Australian year
+
+Choose a separate Markdown language edition. Each covers preschool and Foundation–Year 12, with14 resource entries, free-access conditions, sources and worked examples. Age/year matching is guidance, not a certified curriculum mapping. External resources keep their own language support.
+
+| Guide language | Public repository |
+|---|---|
+| English | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) |
+| 简体中文 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) |
+| 한국어 | [Free maths learning guide](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko) |
