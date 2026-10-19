@@ -33,3 +33,12 @@ School fees and school calendars answer different questions. Private-school fee 
 [Government date sources by state and territory](SOURCES.md) · [National 2026–2027 tables](README.md) · [Family planning worksheet](FAMILY-PLANNING.md)
 
 Linked articles and guides were checked on 19 October 2026 where accessible. Course-guide availability does not establish session availability; confirm dates and places with the organiser.
+
+## Free coding and AI learning
+
+| Family need | Resource |
+|---|---|
+| Find a no-fee first coding or AI activity | [Free coding and AI resources for Australian kids](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia) — official sources, age guidance, account/hardware conditions and access limits |
+| Choose a manageable project and keep evidence of learning | [Learning paths](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/LEARNING-PATHS.md) · [Complete worked examples](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/WORKED-EXAMPLES.md) |
+
+School fees, calendar dates and optional home learning are separate decisions. Check each resource’s free scope and the child’s readiness before starting.
